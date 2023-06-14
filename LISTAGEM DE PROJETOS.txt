@@ -1,0 +1,314 @@
+!!!LISTAGEM DE PROJETOS!!!
+IP01	-	A desigualdade social cantada por Chico Science
+IP02	-	A IMPORTÂNCIA DA HORTA ESCOLAR COMO FONTE DE ALIMENTO - Educação Especial
+IP03	-	Ajudando a preservar: faço, repasso e transformo
+IP04	-	Amigos do Dente
+IP05	-	Caminhando para uma Vida Sustentável 
+IP06	-	Descasque Mais, desembrulhe Menos, Uma Pratica Associada a Atividade Física
+IP07	-	Disco de Newton com EV3
+IP08	-	Estuário de Barra de Jangada: A lama não é o caos.
+IP09	-	Há mais de uma vida em uma árvore! 
+IP10	-	Monteiro Lobato, vida e obra
+IP11	-	Na escola tem horta com compostagem e captação de água da chuva e bebedouros II
+IP12	-	NO JOGO DA CAPOEIRA, NA CIRANDA DA CANÇÃO: o processo de alfabetização...
+IP13	-	O Incrível Invisível: aprendendo sobre microbiologia na infância
+IP14	-	O segredo do efeito Monga
+IP15	-	O USO DO SCRATCH VISANDO A APRENDIZAGEM DE LÓGICA E PROGRAMAÇÃO
+IP16	-	Óleo de cozinha: virando sabão pode ser a solução! 
+IP17	-	Pedofilia: O perigo pode estar ao seu lado.
+IP18	-	DO LIXO AO LUXO NO AMBIENTE ESCOLAR: DA COLETA À TRANSFORMAÇÃO
+IP19	-	Quem Consegue Viver Sem Internet?
+IP20	-	Reaproveitando e transformando a partir de “pallets”
+IP21	-	Reutilização da água do ar condicionado 
+IP22	-	SEMENTE: GUARDIÃ DE UMA NOVA VIDA
+IP23	-	Sustentabilidade Desafio para o Mundo
+DV01	-	"Minha escola da horta!": Horta escolar na promoção de hábitos saudáveis
+DV02	-	“SALVAR AS ÁGUAS DO PLANETA SEM PILHAS E BATERIAS NA NATUREZA”
+DV03	-	A Ciência e as Diferenças Sociais Cantada em Cordel
+DV04	-	A Cura Através dos Animais
+DV05	-	A IMPORTÂNCIA DA EDUCAÇÃO AMBIENTAL NA EDUCAÇÃO INFANTIL
+DV06	-	A importância do adubo orgânico na fertilidade do solo
+DV07	-	A joia de Segurança: dispositivo geolocalizador direcionado a redução da violência
+DV08	-	A má utilização da água no ambiente doméstico
+DV09	-	A mecanização do campo no Brasil
+DV10	-	A qualidade da água que bebemos 
+DV11	-	Água fonte de vida: Preservar para não faltar
+DV12	-	ÁGUAS PARA O AMANHÃ: SISTEMA INTEGRADO DE REUSO DE ÁGUA DE AR CONDICIONADO
+DV13	-	ALTERNATIVAS ECOLÓGICAS QUE FAVORECAM AO MEIO AMBIENTE E A ESCOLA
+DV14	-	Aventure-se na Leitura
+DV15	-	BÁRBARA DE ALENCAR E A REVOLUÇÃO DE 1817
+DV16	-	Bicicleta Geradora de Energia
+DV17	-	BOMBA HIDRÁULICA ECOLÓGICA
+DV18	-	Bullying Homofóbico:  a escola que sangra
+DV19	-	Cadê a mulher que devia estar aqui? -Tá na quadra: driblando preconceitos!
+DV20	-	Chuva do Futuro: A acidez que agrava os problemas aos ecossistemas.
+DV21	-	CIÊNCIA E ESTATÍSTICA, INTEGRANDO CONHECIMENTO NO COMBATE E PREVENÇÃO DE DOENÇAS
+DV22	-	Como cuidar pra não derrubar
+DV23	-	Cuidado! Tem Vespas no Caminho.
+DV24	-	Cuidando de Águas do Jaboatão dos Guararapes: problemáticas do rio da ponte
+DV25	-	De olho na lixeira: contribuições para redução dos impactos ambientais na escola
+DV26	-	DEBATES COM AS LEITURAS: AMPLIAÇÃO DO CONHECIMENTO DE MUNDO A PARTIR DOS LIVROS 
+DV27	-	DESENVOLVIMENTO DA PERCEPÇÃO AMBIENTAL: DA TEORIA A PRÁTICA 
+DV28	-	DESPOLUIÇÃO DAS ÁGUAS PELAS TÉCNICAS DE FILTRAÇÃO E ELETROFLOTAÇÃO
+DV29	-	DEZ comprimidos ou UMA planta: o que eu tomo?
+DV30	-	ECOSSISTEMA MANGUEZAL
+DV31	-	Eletricidade estática, garrafa de Leyden
+DV32	-	EMBOLADA E CORDEL CONTRA O PRECONCEITO LINGUÍSTICO
+DV33	-	EXERCÍCIO FÍSICO NA ADOLESCÊNCIA: QUAL O MELHOR?
+DV34	-	Formação de Jovens Líderes. Sucesso no Desempenho Escolar.
+DV35	-	"GÁS METANO: FONTE DE ENERGIA LIMPA, NA UTILIZAÇÃO SUSTENTÁVEL DO LIXO
+PRODUZIDO EM ATERROS SANITÁRIOS."
+DV36	-	GERMINAÇÃO DAS SEMENTES DO TOMATEIRO IRRIGADO COM EFLUENTE INDUSTRIAL TRATADO
+DV37	-	GRAVIDEZ NA ADOLESCÊNCIA: AVALIAÇÃO DA PERCEPÇÃO DE ESTUDANTES 
+DV38	-	Homofobia na escola ...o que a Dom Bosco pensa a respeito!
+DV39	-	INSPIRAÇÕES INDÍGENAS: UMA BUSCA PELOS ÍNDIOS DE PERNAMBUCO
+DV40	-	Interatividade: Uma viagem da matemática ao corpo humano
+DV41	-	Jogos de ciências: estimulação de múltiplas inteligências
+DV42	-	Linhas Perfeitas - Geoglífos do Acre
+DV43	-	LIXO: O REUSO COM SUSTENTABILIDADE E RENDA.
+DV44	-	MÃE ÁFRICA NO DESENVOLVIMENTO DA CULTURA BRASILEIRA - Educação Especial
+DV45	-	MELHORES AMIGAS(OS) EM LIBRAS
+DV46	-	MONTAGEM E PROGRAMAÇÃO DE ROBÔS-MULTIPLICADORES DA ROBÓTICA.
+DV47	-	O céu antes de Cabral
+DV48	-	O Incrível mundo dos microrganismos: prática investigativa na escola
+DV49	-	O PH DA ÁGUA NA VIDA DO SER HUMANO-MELHOR QUALIDADE DE VIDA
+DV50	-	Obesidade X Matemática: uma questão de saúde.
+DV51	-	Parque dos Manguezais: Vida e Sobrevida
+DV52	-	Percepção dos moradores do bairro de Cajueiro Seco sobre o destino do lixo
+DV53	-	PLÁSTICO BIODEGRADÁVEL DE AMIDO DE BATATA
+DV54	-	Poluição do Rio Capibaribe Mirim em Macaparana-PE
+DV55	-	Potencial do uso da Aguapé (Eichhornia crassipes) na despoluição do Rio Jaboatão
+DV56	-	Prazer em Estudar
+DV57	-	PRESENÇA DE JAVALIS NO PONTAL DO TRIÂNGULO MINEIRO
+DV58	-	Reaproveitar para melhor alimentar-se! 
+DV59	-	REGADOR VAI E VOLTA
+DV60	-	RILE: O ROBÔ HIDRÁULICO
+DV61	-	Rio Capibaribe: Águas que Fazem Correr Educação Ambiental 
+DV62	-	Rio Capibaribe: alternativas para melhorar a qualidade de suas águas 
+DV63	-	S.I.M.
+DV64	-	SERVIÇOS PÚBLICOS DE TRANSPORTE EM NOVA DESCOBERTA: DIFICULDADES E DESAFIOS
+DV65	-	SOLUÇÕES E FORMAS DE DIMINUIR EFEITOS PROVOCADOS PELO MONÓXIDO DE CARBONO 
+DV66	-	SUSTENTABILIDADE NA CONSTRUÇÃO CIVIL
+DV67	-	TEM PROTEÍNA NA MERENDA ESCOLAR?
+DV68	-	Teor de carboidratos nos alimentos consumidos em escola publica.
+DV69	-	Teoria de Fibonacci na vida das Abelhas
+DV70	-	Tratamento da água com a Moringa oleífera
+DV71	-	TRATAMENTO DE BAIXO CUSTO PARA LIXO DOMICILIAR DE COMUNIDADE RIBEIRINHA NO MUNICÍPIO DE CAMARAGIBE-PE
+DV72	-	Trem do Oriente: A invasão das técnicas orientais na medicina alternativa
+DV73	-	Uma análise dos parâmetros da água do Rio das Conchas 
+DV74	-	BULLYING: UM MAL QUE ESTÁ DENTRO DA ESCOLA
+DV75	-	PESQUISA DE DOENÇAS PROVOCADAS PELO MAU HÁBITO ALIMENTAR ITAPISSUMA PE 2018
+DV76	-	BLISS KOP
+DV77	-	Resgatando os valores.
+DV78	-	Proposta de uso da energia eolica na tecnica de eletrofloculacao para o tratamento de agua contaminada por corantes texteis de lavanderias de jeans.
+DV79	-	Educacao Ambiental e Sustentabilidade: Quando a teoria e pratica se encontram para a ressignificacao do espaco escolar. 
+DV80	-	Cuidando de Gente da Gente.
+IC01	-	A ATUAÇÃO DA INDOCUMENTAÇÃO NA CONSTRUÇÃO DA IDENTIDADE CIGANA
+IC02	-	"Impactos ambientais na cidade de Olinda no olhar do Estudante"
+IC03	-	A ARTE DE ED RIBEIRO E O ENSINO APRENDIZAGEM DA CULTURA AFRO-BRASILEIRA
+IC04	-	A BATATA MILAGROSA:Est. das propriedades med. e das caract. botânicas 
+IC05	-	A EFICÁCIA DA SEIVA  EUPHORBIA TIRUCALLI  NO TRATAMENTO DE VERRUGAS
+IC06	-	A LUZ DO FUTURO
+IC07	-	A música e as ciências naturais
+IC08	-	A RADIOATIVIDADE E SUAS MÚLTIPLAS FACES NO COTIDIANO 
+IC09	-	A tradição familiar na culinária abreulimense: aspectos sociais e ambientais
+IC10	-	A variação linguística dos países hispânicos: um estudo através da música.
+IC11	-	ALIMENTOS FUNCIONAIS - CONHECENDO E DISSEMINANDO INFORMAÇÕES
+IC12	-	Análise do Ácido Ascórbico em Sucos Industrializados
+IC13	-	ANÁLISE E CONFIRMAÇÃO DE MICRORGANISMOS PRESENTES EM ÔNIBUS COLETIVO.
+IC14	-	Aquaponia como recurso sustentável
+IC15	-	Árvores de Futuro: Sensibilizar Sobre o Controle de Espécies Exóticas Invasoras.
+IC16	-	Autismo na Escola
+IC17	-	AVALIAÇÃO DO DESENVOLVIMENTO DA CANA DE AÇÚCAR TRATADA COM SORO DE LEITE BOVINO
+IC18	-	AVALIAÇÃO DO EFEITO LETAL DO L.C.C. EM MOSQUITOS HEMATÓFAGOS
+IC19	-	BIOESTATÍSTICA DA SEGURANÇA HÍDRICA DO MERCADO DE CAVALEIRO
+IC20	-	BIOFERTILIZANTE LÍQUIDO DE ESTERCO BOVINO
+IC21	-	Biomassa Banana Verde (Musa spp) Como Fonte Alternativa de Alimentação II FASE
+IC22	-	Bioplástico à base de óleo de rícino
+IC23	-	Bioplástico de casca de manga: uma solução sustentável.
+IC24	-	Brincando com a Física II
+IC25	-	Caracol – Gigante – Africano: Vítima ou Vilão
+IC26	-	CARNE NUTRITIVA E SUSTENTÁVEL A PARTIR DO CORAÇÃO (FLOR) DA BANANEIRA
+IC27	-	Casa Sustentável
+IC28	-	Chega de Bullying, vamos pazear!
+IC29	-	Ciências Humanas no Currículo Escolar: Uma Análise Sobre a Sua Desvalorização
+IC30	-	COLETOR ALTERNATIVO PET – UMA IDEIA QUE DEU CERTO, DO AR CONDICIONADO AO REÚSO
+IC31	-	COMO A TECNOLOGIA PODE ESTIMULAR A LEITURA
+IC32	-	CONCHOSTREA: Quantificação na produção de suplemento mineral humano
+IC33	-	Conhecendo o Bioma Mata Atlântica através de trilha ecológica
+IC34	-	Conhecimento político: sinônimo de poder, liberdade e igualdade de um povo!
+IC35	-	DA ESCOLA PARA O MUNDO
+IC36	-	Detetives da biodiversidade escolar
+IC37	-	DO LIXO A MAIS PURA ARTE
+IC38	-	Do passado cretáceo do sertão à preservação dos Ictiólitos do araripe
+IC39	-	Economizando e Integrando: A economia de energia elétrica para o bem comum
+IC40	-	Educação ambiental e despoluição do flume Baldo do Rio - Goiana/PE
+IC41	-	ELEVADOR DE CARGAS
+IC42	-	Estudo comparativo de líquens presentes em áreas da cidade de Recife-PE
+IC43	-	Estudo das características fisiográficas às margens do rio Manoel Alves 
+IC44	-	Estudo estatístico do índice de massa corporal dos estudantes da EREMPAF-PE
+IC45	-	ETA - Estação de Tratamento de Água
+IC46	-	Eu me importo com as "Coisas da Terra" - Educação Especial
+IC47	-	Explicação Científica e Viabilidade Econômica por Trás do Vapor de Gasolina 
+IC48	-	Explorando o Mundo Subatômico
+IC49	-	Extração de óleo e essências vegetais utilizando um extrator caseiro.
+IC50	-	Extração de plantas populares para produção de velas repelentes.
+IC51	-	EXTRATO AQUOSO DA SEMENTE DO NIM PARA APLICAÇÕES EM INSETOS
+IC52	-	Fake News: Se Informar Para Não Se Enganar
+IC53	-	FARINHA DE MARACUJÁ
+IC54	-	FEMINICÍDIO: O QUE EU TENHO A VER COM ISSO?
+IC55	-	FILTRO DE SABUGO DE MILHO PARA A RETIRADA DE FÁRMACOS RESIDUAIS DA ÁGUA POTÁVEL.
+IC56	-	FLOCULAÇÃO SUSTENTÁVEL DA ÁGUA DE AÇUDES UTILIZANDO O MANDACARU 
+IC57	-	FOLHETIM: CIÊNCIAS DO MIRÓ
+IC58	-	Fotografando Brejão: História, Vivências e Paisagens.
+IC59	-	GAME (OVER) START : O Público Feminino no eSport
+IC60	-	Herbivoria em Dalbergia ecastophyllum e potencial fitotóxico de Schinus terebinthifolius de área estuarina do Litoral Norte de Pernmabuco
+IC61	-	HORTA VERTICAL UTILIZANDO TÉCNICAS DE RECICLAGEM NA ESCOLA SYLVIO RABELLO
+IC62	-	ILEX PARAGUARIENSIS NA INIBIÇÃO DO CRESCIMENTO DE PSEUDOMONAS
+IC63	-	"INTELIGÊNCIA SOCIOEMOCIONAL: INTERVENÇÃO E AUXÍLIO AO TRATAMENTO DA
+DEPRESSÃO INFANTO-JUVENIL."
+IC64	-	INTRODUÇÃO DO ALUNO SURDO AO LABORATÓRIO DE BIOCIÊNCIAS
+IC65	-	Invertebrados marinhos associados a Sargassum cymosum em praias de Pernambuco
+IC66	-	KUEL: Jogos Lúdicos Para Crianças Deficientes Visuais
+IC67	-	Laboratório Sustentável: Elaboração de um Biodigestor Alternativo para Aplicação nas Aulas de Química experimental
+IC68	-	Lâmpada Eólica Sustentável
+IC69	-	Lousa Educacional Interativa
+IC70	-	MERENDA SEM VENENO: A EDUCAÇÃO NO COMBATE AOS AGROTÓXICOS 
+IC71	-	Meus cachos, meu orgulho!
+IC72	-	Mini Mundo: Uma Proposta Ecológica
+IC73	-	MODELO MECÂNICO QUE CONVERTE ENERGIA CINÉTICA EM ENERGIA ELÉTRICA
+IC74	-	O ALTO USO DE MÍDIAS DIGITAIS E SUA INFLUÊNCIA NA VIDA DOS JOVENS
+IC75	-	O comércio de aves silvestres na feira de Cavaleiro, Jaboatão –PE.
+IC76	-	O CONCEITO DE MASCULINIDADE E FEMINILIDADE NA INFÂNCIA EM ÂMBITO ESCOLAR 
+IC77	-	O CONHECIMENTO DE PLANTAS MEDICINAIS EM EDUCANDOS DA ETNIA FULNI-ô
+IC78	-	O Fato Social - O seu canal de Sociologia
+IC79	-	O Registro e o Uso Consciente das Receitas Tradicionais Macuxi.
+IC80	-	O USO CONSCIENTE DE ENERGIA NO AMBIENTE ESCOLAR
+IC81	-	O USO DA MATEMÁTICA NO REAPROVEITAMENTO DA ÁGUA PROVENIENTE DA PIA SANITÁRIA
+IC82	-	O uso do Protocolo P.I.A. como proposta alternativa de prevenção ao suicídio
+IC83	-	Observando cromossomos e distribuindo conhecimento
+IC84	-	OTIMIZAÇÃO DE MÉTODOS E CONCENTRAÇÃO DE BLENDAS NA SÍNTESE DO BIODIESEL.
+IC85	-	Percepção de produtores rurais do estado de Pernambuco sobre o farelo de algodão
+IC86	-	PERCEPÇÃO DO MORADOR DA COMUNIDADE ILHA DE DEUS SOBRE O RISCO DE AUTOMEDICAÇÃO.
+IC87	-	PERCEPÇÃO DOS JOVENS DA CIDADE DE RECIFE SOBRE OS RISCOS DA EXPOSIÇÃO SOLAR
+IC88	-	PERFIL SOCIAL DAS JOVENS MÃES DO DISTRITO DE AMARANTINA – OURO PRETO
+IC89	-	Pesquisando a tolerância dos macroinvertebrados das águas do Gama à poluição 
+IC90	-	Plantas que curam: um ensaio fitoquimico
+IC91	-	Porque as mulheres sofrem violência de gênero
+IC92	-	Processamento Mínimo: Uma alternativa para agregação de valor de batata-doce
+IC93	-	Produção de biodiesel a partir do óleo de fritura e destinação dos subprodutos 
+IC94	-	Projeto Ecoarts Design Sustentável
+IC95	-	Quintal sustentável: Abordagem sobre sustentabilidade nos quintais de Paudalho. 
+IC96	-	Rádio escola : espaço de propagação da área de proteção ambiental da fazendinha 
+IC97	-	REAPROVEITAMENTO DA ÁGUA: UMA PROPOSTA SUSTENTÁVEL
+IC98	-	Recife: a metrópole das águas 
+IC99	-	REUTILIZAÇÃO DA ÁGUA DA MÁQUINA DE LAVAR ROUPAS
+IC101	-	Reutilização do óleo de fritura como matéria-prima para a produção de Detergente
+IC102	-	Revestimentos alternativos para a vida pós-colheita de frutos.
+IC103	-	REVESTIMENTOS COMESTÍVEIS E SUAS APLICAÇÕES PARA O DESENVOLVIMENTO DA CIÊNCIA 
+IC104	-	Revitalizando o patrimônio histórico de Ipubi-PE – “Cacimbão”
+IC105	-	Sabonete caseiro usando erva e produtos naturais
+IC106	-	SACOLAS PLÁSTICAS: reutilização e geração de renda na produção de artesanato
+IC107	-	Semente da Minha GRE: Uma distribuição consciente. 
+IC108	-	Tratamento Químico da carne vermelha
+IC109	-	Tubarões no litoral pernambucano:Geociencias esclarecendo e combatendo tragédias
+IC110	-	UMA RELAÇÃO ENTRE A PRÁTICA DE JOGOS E O RACIOCÍNIO LÓGICO MATEMÁTICO
+IC111	-	UTILIZAÇÃO DE LIXO NA CONSTRUÇÃO DE CASAS NA AMAZÔNIA: PROBLEMA OU SOLUÇÃO?
+IC112	-	UTILIZAÇÃO DE RESÍDUOS DA MANIPUEIRA PARA PRODUÇÃO DE BIOFERTILIZANTE
+IC113	-	UTILIZAÇÃO DO PAPEL COMO COMPONENTE DE TIJOLOS DE CONCRETO
+IC114	-	VISÃO DO EMPODERAMENTO FEMININO NAS ÁREAS DO STEM NA EE AMÉLIO DE CARVALHO BAÍS.
+IC115	-	Jogo Conhecendo Pernambuco.
+IC116	-	Projeto Sangue Bom.
+IC117	-	Inclusão com Feedback.
+IC118	-	Reúso da casca do sururu de forma sustentável na Brasília Teimosa.
+IC119	-	 Planetário Interdisciplinar.
+IC120	-	Sabão e sabonete sustentáveis, uma alternativa econômica no município de Caculé-BA
+DT01	-	MUVE - Mobillity Urban Vehicle Elctric
+DT02	-	A APLICAÇÃO DA NANOTECNOLOGIA EM PRÓTESES ORTOPÉDICAS
+DT03	-	App HELP ALUNO
+DT04	-	Assistência Sistematizada para Cuidados ao Paciente da Doença Neuromotora
+DT05	-	Bateria de Latinhas
+DT06	-	BioCell: Biologia Celular
+DT07	-	BIODISEL CASEIRO FEITO COM ÓLEO DE SOJA SATURADO
+DT08	-	COLETE INTERATIVO: OS EFEITOS DO ÁLCOOL NO NOSSO ORGANISMO
+DT09	-	Da aridez do semiárido às belezas dos cristais da chapada do araripe.
+DT10	-	Desenvolvimento de Bioprodutos a partir do Óleo Residual
+DT11	-	Eco Tinta
+DT12	-	ECOLIMPTECH
+DT13	-	Educação digital- Dinamizando a aprendizagem a partir do uso de aplicativos
+DT14	-	ENERGIA QUE TRANSFORMA- UMA NOVA GERAÇÃO DE ENERGIA DO LIXO
+DT15	-	EREMONS -APP
+DT16	-	Estação De Carregamento Inteligente
+DT17	-	FACILITA SUS
+DT18	-	Ferramenta de auxílio ao tratamento não farmacológico do Alzheimer
+DT19	-	GERAÇÃO DE ENERGIA: reutilização do calor transformando-o em energia elétrica
+DT20	-	GERADOR DE ENERGIA POR FERMENTAÇÃO DE FUNGOS
+DT21	-	Igatu - Sistema de tratamento de água para comunidades ribeirinhas
+DT22	-	I-ROOM: Quarto controlado por smartphone via rede wireless
+DT23	-	KAIRÓS -Dispositivo Controlador de Permanência de Pessoas
+DT24	-	MATERIAL PARTICULADO E O USO DO FILTRO ECOLÓGICO DE PARTÍCULAS.
+DT25	-	Nas ondas do rádio : Rádio Escola FM.
+DT26	-	O uso da robótica educacional no estudo de próteses para amputados.
+DT27	-	Otimização do  ar condicionado automotivo com a reutilização da água dissipada
+DT28	-	Play G.A. - O Seu Game Astronômico
+DT29	-	POMADA À BASE DE Calotropis procera NO TRATAMENTO DE PAPILOMATOSE BOVINA
+DT30	-	PONTE ROLANTE SUSPENSA
+DT31	-	Presença de fibras têxteis sintéticas em águas residuais de lavagens domésticas
+DT32	-	PRODUÇÃO DE FITA INDICADORA DE PH COM PAPEL RECICLADO E EXTRATOS
+DT33	-	PROJETO FENIX: Ouso de tecnologias sustentáveis como alternativa para construção civil.
+DT34	-	Protótipo de exploração: RH2002
+DT35	-	PROTÓTIPO DE MESA DIGITAL PARA ESCOLAS PÚBLICAS
+DT36	-	Qualidade de Vida com Uso de Hortas Suspensas em Estruturas Automatizadas 
+DT37	-	Se é para sustentar, faço renovar: Ciência e Sustentabilidade
+DT38	-	SENSOR DE GÁS GLP
+DT39	-	SENSORES PIEZOELÉTRICOS NA PRODUÇÃO DE ENERGIA A PARTIR DO ASFALTO
+DT40	-	Sistema ultrassônico para pessoas de baixa visão
+DT41	-	Smart Control: Um Controle Universal Para Dispositivos Móveis
+DT42	-	SOLUÇÕES TECNOLÓGICAS PARA PROBLEMÁTICAS AMBIENTAIS NO BAIRRO DE APIPUCOS
+DT43	-	Sucata eletrônica: desenvolvimento de equipamentos com materiais alternativos 
+DT44	-	Tecpower- Carregador portátil a base da associação das energias térmica e solar
+DT45	-	THECO: UM JOGO PARA MOSTRAR A REALIDADE MARINHA E A POLUIÇÃO NOS MARES.
+DT46	-	Projeto ômegas - controle de gás de cozinha
+ED01	-	Entre horrores e dores: cantos e poemas calados por um golpe!
+ED02	-	A mistura Perfeita: Física com Chocolate
+ED03	-	A MONITORIA DE BIOLOGIA NO ENSINO MÉDIO NUMA PERSPECTIVA SÓCIO-HISTÓRICA
+ED04	-	Acelera no e-lixo! Sustentabilidade e descarte consciente do lixo tecnológico
+ED05	-	AS TICS NO ENSINO DE GEOGRAFIA DESAFIOS E INOVAÇÕES PARA O ENSINO FUNDAMENTAL II
+ED06	-	Biologia em Foto - Conexões com a Vida
+ED07	-	CENTRO DE EDUCAÇÃO MATEMÁTICA - APRENDENDO COM JOGOS MANIPULÁVEIS
+ED08	-	CLUBE DE HISTÓRIA: CULTURA AFRO -BRASILEIRA NO ESPAÇO ESCOLAR.
+ED09	-	Crianças & Arduinos
+ED10	-	Desenvolvendo o protagonismo juvenil através da reciclagem
+ED11	-	Do natural ao divino, a questão de gênero.
+ED12	-	EDUCAÇÃO INCLUSIVA - ESCOLA PARA TODOS - Educação Especial
+ED13	-	ENCONTRO DE MATEMÁTICA DA EREM SÃO SEBASTIÃO
+ED14	-	Eu Também Sou Índio
+ED15	-	Festival de Curtas Metragens –TRÂNSITO, MOTOCICLISTA E CIDADANIA
+ED16	-	Iniciação a pesquisa: Uma experiência além dos muros da escola
+ED17	-	INTERDISCIPLINARIZANDO A MATEMÁTICA
+ED18	-	LAGOAS DE JARDIM BRASIL: a qualidade da água como risco à saúde da população.
+ED19	-	Matemática Lúdica no processo de Inclusão  
+ED20	-	Na luta contra o machismo: deixe o seu silêncio gritar!
+ED21	-	O ALUNO PESQUISADOR DE SITUAÇÃO PROBLEMA EM SUA COMUNIDADE
+ED22	-	O CINEMA COMO FERRAMENTA DO PROCESSO DE APRENDIZAGEM DO ESTUDANTE.
+ED23	-	O meu ambiente é aqui!
+ED24	-	O papel do Monitor nas Aulas de Robótica.
+ED25	-	O Surdo e as Exatas
+ED26	-	O USO DA TECNOLOGIA E ROBOTICA EDUCACIONAL ADAPTADAS A ACESSIBILIDADE 
+ED27	-	Perspectivas de Educação Científica no Ensino Médio
+ED28	-	Projeto Horta- Agroecologia com Sustentabilidade
+ED29	-	Relações do jogo Let’s Rock (Programa MenteInovadora & Mind Lab) com geometria.
+ED30	-	SAFRA CIENTÍFICA
+FD01	-	"CAPILARIS"- Aceite capilar de Mirto
+FD02	-	ALISANTE NATURAL PARA EL CABELLO
+FD03	-	Aplicación para retractar criminales a través de rasgos
+FD04	-	Estudio descriptivo de influencia de redes sociales en el aumento de sexting
+FD05	-	LAS REDES SOCIALES COMO ESTRATEGIA PARA APRENDIZAJE EM LOS ESTUDIANTES DEL INFOTEP
+FD06	-	PAN DE BERRO COMO COMPLEMENTO PARA REDUCIR LA ANEMIA FERROPENICA EN NIÑOS
+FD07	-	Skinaweich
+FD08	-	SODVI (Sensor de Objetos para personas con discapacidad visual)
+FD09	-	Solaris jokuapy
+FD10	-	Video Juego sobre reciclaje y cuidado del medio ambiente(Ecojuego)
+FD11	-	Circuito Electrónico de Seguridad e Indicador de Sobrepeso
+FD12	-	Sistema de bloqueo de seguridad via bluetooth controlado con el celular
+FD13	-	CASA DE EVENTOS INSTEJOCA
